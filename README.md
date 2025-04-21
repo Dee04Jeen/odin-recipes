@@ -1,6 +1,10 @@
 
 # Odin Recipes 
+Live Demo: <a href="https://Dee04Jeen.github.io/odin-recipes/" target="blank_">Recipes</a>
 
+PC View:
+
+<img width="985" src="recipes/images/apercu.png">
 
 ## Overview
 
@@ -21,5 +25,6 @@ This assignment <a href="https://www.theodinproject.com/lessons/foundations-reci
 8. Add two more recipes with identical page structures to the recipe page you’ve already created
 
 ## Skills learnt 
+- index creation 
 - GIT commands
 - creating links and boilerplate
