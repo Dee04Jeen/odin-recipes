@@ -1,5 +1,8 @@
 # odin-recipes
-
+ 
+ View:
+ <img width="500" alt="recipes" src="./images/View.png">
+ 
 ## Overview 
 This assigment <a href="https://www.theodinproject.com/lessons/foundations-recipes" target="_blank"> Project: Recipes</a> was set as part of the <a href="https://www.theodinproject.com/"> The Odin Project</a> curriculum. This is website with recipe pages.
 
