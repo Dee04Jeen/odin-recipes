@@ -1,10 +1,15 @@
 # odin-recipes
- 
- View:
- <img width="500" alt="recipes" src="./images/View.png">
+
+This <a href="https://www.theodinproject.com/lessons/foundations-recipes" target="_blank"> Project: Recipes</a> was set as part of the <a href="https://www.theodinproject.com/"> The Odin Project</a> curriculum. This is a basic recipe website.
+
+## Live preview
+<a href="https://dee04jeen.github.io/odin-recipes/" target="_blank">
+
+## View:
+<img width="500" alt="recipes" src="./images/View.png">
  
 ## Overview 
-This assigment <a href="https://www.theodinproject.com/lessons/foundations-recipes" target="_blank"> Project: Recipes</a> was set as part of the <a href="https://www.theodinproject.com/"> The Odin Project</a> curriculum. This is website with recipe pages.
+The assignment was to create a simple website will consist of a main index page which will have links to a few recipes.
 
 ## Provided Assets
 - Recipes: <a href="https://www.allrecipes.com/">all-recipes.com</a>
@@ -24,3 +29,6 @@ This assigment <a href="https://www.theodinproject.com/lessons/foundations-recip
 - index creation 
 - GIT commands
 - creating links 
+
+## Author
+- Woodjennie
