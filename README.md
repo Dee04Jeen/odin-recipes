@@ -3,7 +3,7 @@
 This <a href="https://www.theodinproject.com/lessons/foundations-recipes" target="_blank"> Project: Recipes</a> was set as part of the <a href="https://www.theodinproject.com/"> The Odin Project</a> curriculum. This is a basic recipe website.
 
 ## Live preview
-<a href="https://dee04jeen.github.io/odin-recipes/" target="_blank">
+<a href="https://dee04jeen.github.io/odin-recipes/" target="_blank">Recipes</a>
 
 ## View:
 <img width="500" alt="recipes" src="./images/View.png">
